@@ -31,7 +31,7 @@ Para executar este projeto na sua máquina, siga os passos abaixo.
 
 1.  Clone o repositório para a sua máquina:
     ```sh
-    git clone https://github.com/igorpalazzo/app-do-ranxim.git
+    git clone https://github.com/igorpalazzo/app_ranxim
     ```
 2.  Navegue até a pasta do projeto:
     ```sh
