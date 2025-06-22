@@ -8,7 +8,7 @@ Um simples, porém robusto, gerenciador de ranking e partidas para jogos locais,
 
 ## 📖 Sobre o Projeto
 
-O "App do Ranxim" nasceu da necessidade de um grupo de amigos gerenciar de forma justa e divertida as partidas de sinuca (ou qualquer outro jogo\!). Chega de anotações em papel ou discussões sobre quem tem mais pontos. Este app resolve isso de forma definitiva, direto do terminal.
+O "App do Ranxim" nasceu da necessidade de um grupo de amigos gerenciar as partidas que eles sempre jogaram no Ranxim, um lugar que antes era apenas um terreno e agora é um espaço com diversas atividades e que sempre está em constante evolução.
 
 A versão atual é focada na funcionalidade principal: registrar quem ganhou de quem e manter um ranking atualizado.
 
@@ -31,7 +31,7 @@ Para executar este projeto na sua máquina, siga os passos abaixo.
 
 1.  Clone o repositório para a sua máquina:
     ```sh
-    git clone https://github.com/SEU_USUARIO/app-do-ranxim.git
+    git clone https://github.com/igorpalazzo/app-do-ranxim.git
     ```
 2.  Navegue até a pasta do projeto:
     ```sh
